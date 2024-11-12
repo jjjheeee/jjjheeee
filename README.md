@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 
 ## Used Stack
-![USED STACKS](https://skillicons.dev/icons?i=react,ts,nextjs,django,python,mongodb,mysql,redis,node.js,java)
+![USED STACKS](https://skillicons.dev/icons?i=react,ts,nextjs,django,python,mongodb,mysql,redis,node,expressjs,java)
 
