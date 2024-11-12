@@ -25,8 +25,15 @@ Here are some ideas to get you started:
 ![USED STACKS](https://skillicons.dev/icons?i=python,java)
 
 ## Used DataBase
-![USED STACKS](https://skillicons.dev/icons?i=maria,mongodb,mysql,redis)
+![USED STACKS](https://skillicons.dev/icons?i=mongodb,mysql,redis,postgresql)
 
 ## Used Stack
-![USED STACKS](https://skillicons.dev/icons?i=react,ts,nextjs,django,mongodb,mysql,redis,nodejs,expressjs)
+![USED STACKS](https://skillicons.dev/icons?i=react,ts,nextjs,django,nodejs,expressjs)
 
+
+## MY PROJECTS
+1. [우리들의 공부 집합소, 공집합](https://gongziphap.com/) (2023년 03월 ~ 2024년 9월)  
+   ##### - Backend, 기획, UI/UX, 학습단, Saas 솔루션 문제DB 개발
+
+2. [온라인 팝업스토어 - 팝업은 현재 진행중! 팝핑](https://github.com/popping-official) (2024년 8월 ~ 2024년 9월 - 사이드임팩트 1차통과(20팀 선발))  
+   ##### - Backend, 데이터 크롤링,  naver map api연동, mongodb거리기반 데이터 조회, base64 이미지 처리
