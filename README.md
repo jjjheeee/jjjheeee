@@ -15,14 +15,18 @@ Here are some ideas to get you started:
 
 ## About Me
 ```planetext
-
+- 유지보수가 쉬운 개발하고 싶어요.
+- 개발 과정에서 항상 사용자의 입장을 생각해요.
+- 꾸준하게 구현, 다이나믹 알고리즘, 그리드등 다양한 알고리즘 공부를 해요.
 ```
 
 
-## Introduction
+## Used language
+![USED STACKS](https://skillicons.dev/icons?i=python,java)
 
-
+## Used DataBase
+![USED STACKS](https://skillicons.dev/icons?i=mariadb,mongodb,mysql,redis)
 
 ## Used Stack
-![USED STACKS](https://skillicons.dev/icons?i=react,ts,nextjs,django,python,mongodb,mysql,redis,nodejs,expressjs,java)
+![USED STACKS](https://skillicons.dev/icons?i=react,ts,nextjs,django,mongodb,mysql,redis,nodejs,expressjs)
 
