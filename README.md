@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![USED STACKS](https://skillicons.dev/icons?i=python,java)
 
 ## Used DataBase
-![USED STACKS](https://skillicons.dev/icons?i=mariadb,mongodb,mysql,redis)
+![USED STACKS](https://skillicons.dev/icons?i=maria,mongodb,mysql,redis)
 
 ## Used Stack
 ![USED STACKS](https://skillicons.dev/icons?i=react,ts,nextjs,django,mongodb,mysql,redis,nodejs,expressjs)
