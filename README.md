@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ## MY PROJECTS
-1. [우리들의 공부 집합소, 공집합](https://gongziphap.com/) (2023년 03월 ~ 2024년 9월)  
+1. [우리들의 공부 집합소, 공집합](https://gongziphap.com/) (2023년 03월 ~ 2024년 8월)  
    ##### - Backend, 기획, UI/UX, 학습단, Saas 솔루션 문제DB 개발
 
 2. [온라인 팝업스토어 - 팝업은 현재 진행중! 팝핑](https://github.com/popping-official) (2024년 8월 ~ 2024년 9월 - 사이드임팩트 1차통과(20팀 선발))  
