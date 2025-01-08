@@ -37,3 +37,12 @@ Here are some ideas to get you started:
 
 2. [온라인 팝업스토어 - 팝업은 현재 진행중! 팝핑](https://github.com/popping-official) (2024년 8월 ~ 2024년 9월 - 사이드임팩트 1차통과(20팀 선발))  
    ##### - Backend, 데이터 크롤링,  naver map api연동, mongodb거리기반 데이터 조회, base64 이미지 처리
+
+## My Study
+
+[Study Algorithm](https://flicker-boar-8aa.notion.site/Study-Algorithm-15058d1b7153807ea9e0dcda4a400e99)
+1. 문제를 탐색
+2. 문제의 대한 코드를 탐색
+3. 정답 코드 
+4. 오답시 - TroubleShooting
+   
