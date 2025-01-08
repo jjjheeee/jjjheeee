@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 [Study Algorithm](https://flicker-boar-8aa.notion.site/Study-Algorithm-15058d1b7153807ea9e0dcda4a400e99)
 1. 문제를 탐색
-2. 문제의 대한 코드를 탐색
+2. 문제의 대한 코드를 설계
 3. 정답 코드 
 4. 오답시 - TroubleShooting
    
