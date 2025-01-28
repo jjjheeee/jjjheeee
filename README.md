@@ -45,6 +45,12 @@ Here are some ideas to get you started:
    ##### - Backend, 기획, UI/UX, 학습단, Saas 솔루션 문제DB 개발
 -->
 
+<!--4. [CEMS](https://gongziphap.com/) (2023년 03월 ~ 2024년 8월)
+   ##### https://flicker-boar-8aa.notion.site/12858d1b715381a99ec7f29d961aa569?pvs=4
+   ##### - Backend, 기획, UI/UX, 학습단, Saas 솔루션 문제DB 개발
+-->
+
+
 
 ## My Study
 
