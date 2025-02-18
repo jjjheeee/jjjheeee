@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## MY PROJECTS
 1. [온라인 팝업스토어 - 팝업은 현재 진행중! 팝핑](https://github.com/popping-official) (2024년 8월 ~ 2024년 9월 - 사이드임팩트 1차통과(20팀 선발))
-   ##### https://flicker-boar-8aa.notion.site/Popping-12858d1b71538177bd79fa5c4296469b?pvs=4
+   ##### https://flicker-boar-8aa.notion.site/Popping-18058d1b715381e7b7f6dfccb853ba67?pvs=4
    ##### - Backend, 데이터 크롤링,  naver map api연동, mongodb거리기반 데이터 조회, base64 이미지 처리
    
 2. [우리들의 공부 집합소, 공집합](https://gongziphap.com/) (2023년 03월 ~ 2024년 8월)
