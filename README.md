@@ -44,7 +44,7 @@ Here are some ideas to get you started:
    ##### [Poppping 포트폴리오](https://flicker-boar-8aa.notion.site/Popping-18058d1b715381e7b7f6dfccb853ba67?pvs=4)
    ##### - Backend api 개발, 데이터 크롤링,  naver map api연동, mongodb거리기반 데이터 조회, base64 이미지 처리
 
-4. [내 마음을 전해줘 롤링 페이퍼 - Rollpe](https://github.com/Team-Exiters/roll-pe-api) (2025년 01월 06일 ~ 진행중)
+4. [내 마음을 전해줘 롤링 페이퍼 - Rollpe](https://github.com/Team-Exiters) (2025년 01월 06일 ~ 진행중)
    ##### [Rollpe 포트폴리오](https://flicker-boar-8aa.notion.site/Roll-pe-1a758d1b715380baa7b2dba7c30862d9)
    ##### - Backend api 개발, jwt 유저 인증, 소셜로그인(카카로, 구글, 애플), TDD적용 api unit test 작성
 
