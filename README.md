@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 
 ## MY PROJECTS
-1. [Elixir Topik] (2023년 03월 01일 ~ 2023년 9월 30일)
+1. Elixir Topik (2023년 03월 01일 ~ 2023년 9월 30일)
    ##### [Elixir Topik 포트폴리오](https://flicker-boar-8aa.notion.site/Elixir-Topik-18f58d1b715380b1b5b9c2a8ae93d269)
    ##### - Backend 학습 관련기능 개발, Gtts/pytts 사용 듣기 mp3 제작, UI/UX, 학습단, 퀴즈봇 기능 개발, Word2Vec
 
-2. [우리들의 공부 집합소, 공집합] (2023년 10월 01일 ~ 2024년 7월 31일)
+2. 우리들의 공부 집합소, 공집합 (2023년 10월 01일 ~ 2024년 7월 31일)
    ##### [공집합 포트폴리오](https://flicker-boar-8aa.notion.site/12858d1b715381a99ec7f29d961aa569?pvs=4)
    ##### - Backend api 학습 관련기능 개발, redis 데이터 캐싱, 강사 컨텐츠(엑셀) 업로드 기능, 자격증 문제 데이터 엑셀 템플릿 작성
    
