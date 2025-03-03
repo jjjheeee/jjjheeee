@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![USED STACKS](https://skillicons.dev/icons?i=mongodb,mysql,redis,postgresql)
 
 ## Used Stack
-![USED STACKS](https://skillicons.dev/icons?i=react,ts,nextjs,django,nodejs,expressjs)
+![USED STACKS](https://skillicons.dev/icons?i=react,ts,django)
 
 
 ## MY PROJECTS
