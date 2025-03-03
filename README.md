@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 
 ## MY PROJECTS
-1. [Elixir Topik](https://gongziphap.com/) (2023년 03월 01일 ~ 2023년 9월 30일)
+1. [Elixir Topik] (2023년 03월 01일 ~ 2023년 9월 30일)
    ##### [Elixir Topik 포트폴리오](https://flicker-boar-8aa.notion.site/Elixir-Topik-18f58d1b715380b1b5b9c2a8ae93d269)
    ##### - Backend 학습 관련기능 개발, Gtts/pytts 사용 듣기 mp3 제작, UI/UX, 학습단, 퀴즈봇 기능 개발, Word2Vec
 
-2. [우리들의 공부 집합소, 공집합](https://gongziphap.com/) (2023년 10월 01일 ~ 2024년 7월 31일)
+2. [우리들의 공부 집합소, 공집합] (2023년 10월 01일 ~ 2024년 7월 31일)
    ##### [공집합 포트폴리오](https://flicker-boar-8aa.notion.site/12858d1b715381a99ec7f29d961aa569?pvs=4)
    ##### - Backend api 학습 관련기능 개발, redis 데이터 캐싱, 강사 컨텐츠(엑셀) 업로드 기능, 자격증 문제 데이터 엑셀 템플릿 작성
    
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
    ##### [Rollpe 포트폴리오](https://flicker-boar-8aa.notion.site/Roll-pe-1a758d1b715380baa7b2dba7c30862d9)
    ##### - Backend api 개발, jwt 유저 인증, 소셜로그인(카카로, 구글, 애플), TDD적용 api unit test 작성
 
-5. [다~모아서 한번에 본다 - 링크모아](https://github.com/Team-Exiters/roll-pe-api) (2025년 01월 06일 ~ 진행중)
+5. [다~모아서 한번에 본다 - 링크모아](https://github.com/jjjheeee/linkmoa) (2025년 01월 06일 ~ 진행중)
    ##### [Linkmoa 포트폴리오](https://flicker-boar-8aa.notion.site/1a758d1b715380e79543c001497e5693)
    ##### - Backend 개발, session 유저 인증, aws ec2배포, https 적용
 
