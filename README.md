@@ -48,7 +48,7 @@ Here are some ideas to get you started:
    > [Rollpe 포트폴리오](https://flicker-boar-8aa.notion.site/Roll-pe-1a758d1b715380baa7b2dba7c30862d9)
    > - Backend api 개발, jwt 유저 인증, 소셜로그인(카카로, 구글, 애플), TDD적용 api unit test 작성
 
-5. [다~모아서 한번에 본다 - 링크모아](https://github.com/jjjheeee/linkmoa)  (2025년 01월 06일 ~ 진행중)
+5. [다~모아서 한번에 본다 - 링크모아](https://github.com/jjjheeee/linkmoa)  (2025년 02월 08일 ~ 진행중)
    > [Linkmoa 포트폴리오](https://flicker-boar-8aa.notion.site/1a758d1b715380e79543c001497e5693)
    > - Backend 개발, session 유저 인증, aws ec2배포, https 적용
 
